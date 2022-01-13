@@ -1,6 +1,6 @@
 # Shell-C-Implementation
-Worked with two colleagues on implementating a Shell that can execute the same commands as a real terminal:
--history__
+Worked with two colleagues on implementating a Shell that can execute the same commands as a real terminal:\
+-history\
 -cd__
 -pwd__
 -touch__
